@@ -1,0 +1,30 @@
+body{
+    background-image: url(http://4.bp.blogspot.com/-cQ4XnoW4Ysc/Tzbg3Jh25VI/AAAAAAAAA74/xFjSDny2SqU/s1600/21.Jpg);
+   
+}
+.con{
+background-image: url(img.jpg);
+width: 250px;
+height: 320px;
+padding:20px;
+margin-right: 500px;
+}
+.container{
+    padding:20px;
+    margin-top: 50px;
+    text-align: left;
+    width: 430px;
+    height: 320px;
+    background-color: rgb(247, 248, 249);
+    position: relative;
+    top: -410px;
+    left: 360px;
+    margin-right: 500px;
+}
+.button{
+    width: 150px;
+    background: blue;
+}
+.forgot{
+   margin-left: 150px;
+}
